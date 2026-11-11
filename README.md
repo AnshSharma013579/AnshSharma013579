@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 🐟 My Git Koi
+*(This will automatically update every day with a pixel-art koi fish based on your GitHub activity!)*
+
+![Git Koi](assets/koi.gif)
+
+---
+
+### 🛠️ Tech Stack & Tools
+- **Languages:** Python, Bash, JavaScript, TypeScript, SQL, PowerShell
+- **Cybersecurity & Ops:** Nmap, Wireshark, Metasploit, Burp Suite, Splunk, Linux
