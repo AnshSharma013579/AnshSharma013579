@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 ### 🐟 My Git Koi
 *(This will automatically update every day with a pixel-art koi fish based on your GitHub activity!)*
 
-![Git Koi](./koi/koi.gif)
+<p align="center">
+  <img src="./koi/koi.gif" alt="Git Koi" />
+</p>
 
 ---
 
